@@ -1,0 +1,316 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "mckale-lee",
+  "name": {
+    "first": "McKale",
+    "last": "Lee",
+    "full": "McKale Lee",
+    "preferred": "McKale"
+  },
+  "tagline": "Down at area. Champion at state.",
+  "headline": "Texas Track & Field · 800m & Cross Country",
+  "eventGroup": "distance",
+  "events": [
+    "800m",
+    "1600m",
+    "Cross country"
+  ],
+  "hometown": "Houston, Texas",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Exercise Science",
+    "classYear": "Freshman",
+    "gradDate": "Expected May 2030"
+  },
+  "contact": {
+    "email": "mckalele3@gmail.com"
+  },
+  "bio": {
+    "short": "McKale Lee is a freshman middle-distance runner for Texas and the 2026 UIL 6A state champion in the 800m. A year after falling at the area meet, she won state in 2:08.69. She studies Exercise Science and was a 2026 Project Manager Intern at Feniex Industries.",
+    "long": [
+      "McKale Lee runs the 800m and cross country for the University of Texas. In May 2026 she won the UIL Class 6A state title in the 800m at Mike A. Myers Stadium in Austin, clocking 2:08.69 to finish more than two seconds clear of the field. That spring she also won the Region III 800m, took second in the regional 1600m and swept the 800m and 1600m at the area meet, where her 2:08.50 was the fastest girls' 800m run in Texas all year. As a Longhorn freshman she set personal bests at 6K and 5K in her first college cross country season.",
+      "She grew up in Houston and ran for Alief Taylor High School, where a fall on the back straight at the 2025 area meet ended her junior season short of state. Her answer became her motto: \"If you fall seven times, get back up eight times.\" Twelve months later she was a state champion, and she dedicated the title to her community in Southwest Alief. She now studies Exercise Science at Texas.",
+      "In 2026 she joined Feniex Industries, the Austin maker of emergency-vehicle lighting, sirens and controllers, as a Project Manager Intern. The habits that carried her back from that fall fit the job: she works to a plan, measures progress honestly and stays steady when the schedule tightens. Middle-distance racing is a constant series of pacing and timing decisions made under pressure, the same judgment a project manager uses to keep work moving between engineering, production and sales."
+    ]
+  },
+  "stats": [
+    {
+      "label": "UIL 6A state champion, 800m",
+      "value": "1st",
+      "note": "2:08.69, UIL State Championships, 2026"
+    },
+    {
+      "label": "800m personal best",
+      "value": "2:08.50",
+      "note": "UIL 6A Area 19 & 20, 2026 (fastest in Texas that year)"
+    },
+    {
+      "label": "Area titles, 800m and 1600m",
+      "value": "2",
+      "note": "UIL 6A Area 19 & 20, 2026"
+    },
+    {
+      "label": "5K cross country best",
+      "value": "18:46.2",
+      "note": "Chile Pepper Festival, 2026"
+    }
+  ],
+  "prs": [
+    {
+      "event": "800m",
+      "mark": "2:08.50",
+      "meet": "UIL 6A Area 19 & 20",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "1600m",
+      "mark": "4:57.99",
+      "meet": "UIL 6A Region III Championships",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "5K cross country",
+      "mark": "18:46.2",
+      "meet": "Chile Pepper Festival",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "6K cross country",
+      "mark": "23:19.2",
+      "meet": "Gans Creek Classic",
+      "year": "2026",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024",
+      "title": "Regional qualifier",
+      "detail": "District silver in the 800m, fourth at area and a trip to regionals as an Alief Taylor sophomore."
+    },
+    {
+      "year": "2025",
+      "title": "The fall",
+      "detail": "Went down on the back straight at the area meet, ending her junior season short of state."
+    },
+    {
+      "year": "2026",
+      "title": "Double area champion",
+      "detail": "Won the 800m and 1600m at the UIL 6A Area 19 & 20 meet, cutting her 800m best to 2:08.50."
+    },
+    {
+      "year": "2026",
+      "title": "UIL 6A state champion",
+      "detail": "Won the state 800m in Austin in 2:08.69 after taking the Region III title, and placed eighth in the state 1600m."
+    },
+    {
+      "year": "2026",
+      "title": "Texas Longhorn",
+      "detail": "Debuted at the Texas A&M Invitational, then set 6K and 5K bests at the Gans Creek Classic and Chile Pepper Festival."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Joined the project team at the Austin manufacturer of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "UIL Class 6A state champion, girls 800m",
+      "year": "2026"
+    },
+    {
+      "title": "UIL 6A Region III champion, girls 800m",
+      "year": "2026"
+    },
+    {
+      "title": "Area champion, 800m and 1600m (UIL 6A Area 19 & 20)",
+      "year": "2026"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "If you fall seven times, get back up eight times",
+      "source": "ABC13 Houston",
+      "date": "2026-05-09"
+    },
+    {
+      "quote": "It meant everything. I've imagined this moment for as long as I can remember.",
+      "source": "ABC13 Houston",
+      "date": "2026-05-19"
+    },
+    {
+      "quote": "It takes serious concentration. It takes dedication. It takes losing, it takes gaining",
+      "source": "ABC13 Houston",
+      "date": "2026-05-09"
+    }
+  ],
+  "press": [
+    {
+      "title": "Cross Country posts strong marks at Gans Creek Classic",
+      "outlet": "Texas Athletics",
+      "date": "2026-09-25",
+      "url": "https://texaslonghorns.com/news/2026/9/25/track-field-cross-country-cross-country-posts-strong-marks-at-gans-creek-classic"
+    },
+    {
+      "title": "ABC13 'Athletes of the Week' shine at state track meet",
+      "outlet": "ABC13 Houston",
+      "date": "2026-05-19",
+      "url": "https://abc13.com/post/abc13-athletes-week-shine-state-track-meet/19127209/"
+    },
+    {
+      "title": "Craziest Marks at the 2026 Texas UIL State Track and Field Championships",
+      "outlet": "SI High School",
+      "date": "2026-05-19",
+      "url": "https://www.si.com/high-school/texas/craziest-marks-at-the-2026-texas-uil-state-track-and-field-championships"
+    },
+    {
+      "title": "Alief Taylor High School senior uses past failure to fuel run to state in 2 events",
+      "outlet": "ABC13 Houston",
+      "date": "2026-05-09",
+      "url": "https://abc13.com/post/alief-taylor-high-school-senior-uses-past-failure-fuel-run-state-2-events/19064025/"
+    },
+    {
+      "title": "HITTING HER STRIDE: Taylor's Lee Pursuing a Higher Level of Success",
+      "outlet": "VYPE Houston",
+      "date": "2025-03-20",
+      "url": "https://www.vype.com/Texas/Houston/hitting-her-stride-taylors-lee-pursuing-a-higher-level-of-success"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Gets Back Up",
+      "detail": "She turned a fall at the 2025 area meet into a state title twelve months later."
+    },
+    {
+      "title": "Delivers on Deadline",
+      "detail": "Her best races of 2026 came at the area, regional and state meets, exactly when the season was on the line."
+    },
+    {
+      "title": "Pacing",
+      "detail": "Winning an 800m means spending effort to a plan and holding something back for the final straight, the same discipline a long project needs."
+    },
+    {
+      "title": "Range",
+      "detail": "She won area titles at 800m and 1600m at the same meet, then moved up to 6K and 5K cross country at Texas and set bests at both."
+    }
+  ],
+  "resume": {
+    "summary": "Texas Track & Field middle-distance runner and 2026 UIL 6A state 800m champion studying Exercise Science. Project Manager Intern at Feniex Industries, supporting schedules, status tracking and documentation across engineering, production and sales. Steady under deadline pressure and comfortable with AI-assisted workflows.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Tracked project schedules and task status for cross-functional work at an Austin manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Coordinated with engineering, production and sales teams to keep owners, deadlines and open items visible.",
+          "Documented recurring processes as clear step-by-step guides for team reference.",
+          "Used Claude and other AI tools daily to draft updates, summarize meetings and organize project information."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's degree, Exercise Science",
+        "dates": "Expected May 2030",
+        "details": [
+          "Student-athlete, Texas Track & Field / Cross Country (SEC)"
+        ]
+      },
+      {
+        "school": "Alief Taylor High School, Houston, TX",
+        "degree": "High School Diploma",
+        "dates": "2026",
+        "details": [
+          "UIL Class 6A state champion, 800m (2026)"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Distance Runner (800m, Cross Country)",
+        "org": "University of Texas Track & Field / Cross Country (SEC)",
+        "dates": "2026–Present",
+        "bullets": [
+          "Set personal bests at 6K (23:19.2, Gans Creek Classic) and 5K (18:46.2, Chile Pepper Festival) in first collegiate season.",
+          "Made collegiate debut at the Texas A&M Invitational (5K, 19:35.0)."
+        ]
+      },
+      {
+        "role": "Middle-Distance Runner",
+        "org": "Alief Taylor High School Track & Field, Houston, TX",
+        "dates": "2024–2026",
+        "bullets": [
+          "Won the 2026 UIL Class 6A state title in the 800m (2:08.69); placed 8th in the state 1600m.",
+          "Won the 2026 Region III 800m (2:09.08) and placed 2nd in the 1600m (4:57.99).",
+          "Swept the 800m and 1600m at the 2026 UIL 6A Area 19 & 20 meet; 800m best of 2:08.50 ranked No. 1 in Texas for 2026."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling",
+        "Status Tracking",
+        "Stakeholder Communication",
+        "Process Documentation",
+        "Goal Setting & Progress Tracking",
+        "Performance Measurement"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude and other AI tools"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "UIL Class 6A State Champion, 800m",
+        "year": "2026"
+      },
+      {
+        "title": "UIL 6A Region III Champion, 800m",
+        "year": "2026"
+      },
+      {
+        "title": "Area Champion, 800m and 1600m",
+        "year": "2026"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "McKale turned a setback at the area meet into a state title a year later. That resilience, plus her steadiness and follow-through, is exactly what she brought to our team at Feniex.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.53,
+      "y": 0.431,
+      "zoom": 1.16
+    },
+    "portrait": "athlete.jpg",
+    "action": []
+  },
+  "imagery": "ai",
+  "photoCredits": [
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://mckale-lee.vercel.app"
+  },
+  "seo": {
+    "title": "McKale Lee | Texas Track & Field · Project Management",
+    "description": "McKale Lee: Texas middle-distance runner, 2026 UIL 6A state 800m champion and Exercise Science student. 2026 Project Manager Intern at Feniex."
+  },
+  "noindex": true
+}
